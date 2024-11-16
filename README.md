@@ -1,4 +1,6 @@
-    # rsschool-cv
+# rsschool-cv
 
-    [MY RESUME PAGE](https://Maksymetee.github.io/rsschool-cv/)
+
+[GITHUB-PAGES](https://maksymetee.github.io/rsschool-cv/cv.md)
+
 
